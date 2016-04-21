@@ -1,0 +1,13 @@
+body {
+	background-color: #DCDCDC;
+}
+#heightInput {
+	margin: 1px;
+}
+#characterInput {
+	margin: 1px;
+}
+#showPineTree {
+	text-align: center;
+	background-color: #A9A9A9;
+}
